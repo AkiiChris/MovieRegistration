@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{89112A2C-9FAD-47BF-9CB5-4E5C71544E37}|">
+  <MonoDevelop.Ide.ItemProperties.MovieRegistration__1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieRegistration_1/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MovieRegistration_1/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="MovieRegistration_1/Properties/EmptyJSONFile.json" Line="27" Column="2" />
+      <File FileName="MovieRegistration_1/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="MovieRegistration_1/Views/Home/MovieList.cshtml" Line="1" Column="1" />
+      <File FileName="MovieRegistration_1/wwwroot/EmptyCSSFile.css" Line="75" Column="1" />
+      <File FileName="MovieRegistration_1/wwwroot/css/site.css" Line="74" Column="2" />
+      <File FileName="MovieRegistration_1/wwwroot/js/EmptyJSFile.js" Line="4" Column="31" />
+      <File FileName="MovieRegistration_1/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieRegistration_1" expanded="True">
+            <Node name="MovieRegistration_1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieRegistration__1.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

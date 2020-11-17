@@ -1,0 +1,2 @@
+/Users/akiichris/Documents/MovieRegistration_1/MovieRegistration_1/obj/Debug/MovieRegistration_1.csprojAssemblyReference.cache
+/Users/akiichris/Documents/MovieRegistration_1/MovieRegistration_1/obj/Debug/MovieRegistration_1.csproj.CoreCompileInputs.cache
